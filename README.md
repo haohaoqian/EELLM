@@ -1,2 +1,2 @@
-# EELLM
-EELLM: Improving the Policy Exploration\\Efficiency in Reinforcement Learning\\with Large Language Models
+# LLM-Exp
+LLM-Exp: Exploring the Policy in Reinforcement Learning with Large Language Models
